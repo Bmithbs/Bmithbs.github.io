@@ -1,12 +1,28 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 title: Hu, Senkang
-description: This is my personal homepage. 
-
-
+description: PhD@UCAS, BSc@BIT
+color-scheme: auto
+email: huhbu@outlook.com
+favicon: true
 logo: FsNu38FEg601X8drnRRjkHMzAoGF.jpg
 
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/bmithbs
+
+navigation:
+  - name: Home Page 
+    link: ./
+    sublist:
+      - name: Biography
+        link: ./#Biography
+      - name: Education
+        link: ./#Education
+      - name: Publications
+        link: ./#Publications
+      - name: Experience
+        link: ./#Experience
+      - name: Rewards & Honors
+        link: ./#Rewards & Honors
