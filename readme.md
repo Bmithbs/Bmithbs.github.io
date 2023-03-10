@@ -18,22 +18,14 @@ I'm HU Senkang, now I'm a PhD student of University of Chinese Academy of Scienc
 
 Just coming...
 
+
+
 ## Experience
 
-- 2022.9 -- 2022.12，**棱镜私募**，量化策略实习生
-  - 负责维护数据库
-  - 分析回测模型效果
-  - 撰写研究报告
-- 2022.4 -- 2022.8，**毫末智行**，视觉算法实习
-  - 负责 3D 点云目标检测算法的维护和迭代
-  - 负责 3D 目标检测算法的泛化
-  - 负责数据清洗算法的研究
-  - 负责训练方法的开发和实验
-- 2021.10 -- 2022.3，**中国科学院**，计算机视觉研究助理
-  - 负责文献调研
-  - 负责算法实现
-  - 负责算法的实验
-  - 协助开发新的算法
+- **Lengjing PE Fund**, Quantatitive Strategy Intern, 2022.9 -- 2022.12
+- **HAOMO.AI**, Computer Vision Intern, 2022.4 -- 2022.8
+- **Chinese Academy of Sciences**, Research Assistant, 2021.10 -- 2022.3
+
 
 
 
