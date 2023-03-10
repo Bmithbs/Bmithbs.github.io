@@ -11,6 +11,10 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/bmithbs
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: www.linkedin.com/in/thoughts-reality-3123681b5
+
 
 navigation:
   - name: Biography
