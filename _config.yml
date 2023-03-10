@@ -16,14 +16,3 @@ platforms:
     link: https://www.linkedin.com/in/thoughts-reality-3123681b5
 
 
-navigation:
-  - name: Biography
-    link: ./#BIOGRAPHY
-  - name: Education
-    link: ./#EDUCATION
-  - name: Publications
-    link: ./#PUBLICATIONs
-  - name: Experience
-    link: ./#EXPERIENCEs
-  - name: Rewards & Honors
-    link: ./#REWARDs & HONORs
