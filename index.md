@@ -1,10 +1,12 @@
+---
+layout: defalut
+---
 
-## Biography
+## <u>Biography</u>
 
 I'm HU Senkang (胡森康), now I'm a PhD student of University of Chinese Academy of Sciences (UCAS). I got my Bachelor's degree from Beijing Institute of Technology.
 
----
-## Education
+## <u>Education</u>
 
 ### University of Chinese Academy of Sciences, PhD
 - 2022.8 -- Now
@@ -16,14 +18,12 @@ I'm HU Senkang (胡森康), now I'm a PhD student of University of Chinese Acade
 - GPA：91/100，Top 5%
 
 
----
-## Publications
+## <u>Publications</u>
 
 Just coming...
 
 
----
-## Experience
+## <u>Experience</u>
 
 ### Lengjing PE Fund
 
@@ -41,9 +41,8 @@ Just coming...
 - 2021.10 -- 2022.3
 
 
----
 
-## Rewards & Honors
+## <u>Rewards & Honors</u>
 
 - National Scholarship (**Top 0.2%**)
 - CASC Scholarship (Top 1%)
