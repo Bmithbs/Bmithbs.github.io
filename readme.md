@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
 ## Biography
 
-I'm HU Senkang, now I'm a PhD student of University of Chinese Academy of Sciences (UCAS), 
+I'm HU Senkang (胡森康), now I'm a PhD student of University of Chinese Academy of Sciences (UCAS). I got my Bachelor's degree from Beijing Institute of Technology.
 
 
 ## Education
@@ -31,7 +35,7 @@ Just coming...
 
 ## Rewards & Honors
 
-- National Scholarship (Top 0.2%)
+- National Scholarship (**Top 0.2%**)
 - CASC Scholarship (Top 1%)
 - First Class Academic Scholarship (4 times)
 - Excellent Student of Beijing Institute of Technology (3 Times)

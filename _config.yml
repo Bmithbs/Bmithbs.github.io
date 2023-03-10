@@ -1,7 +1,12 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-title: Hu, Senkang (胡森康)
+title: Hu, Senkang
 description: This is my personal homepage. 
 
 
 logo: FsNu38FEg601X8drnRRjkHMzAoGF.jpg
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/bmithbs
