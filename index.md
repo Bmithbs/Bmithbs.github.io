@@ -14,6 +14,8 @@ I'm HU Senkang (胡森康), now I'm a PhD student of University of Chinese Acade
 - 2018.9 -- 2022.6
 - Electronic Engineering
 - GPA：91/100，Top 5%
+
+
 ---
 ## Publications
 
