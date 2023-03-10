@@ -18,12 +18,12 @@ platforms:
 
 navigation:
   - name: Biography
-    link: ./#Biography
+    link: ./#BIOGRAPHY
   - name: Education
-    link: ./#Education
+    link: ./#EDUCATION
   - name: Publications
-    link: ./#Publications
+    link: ./#PUBLICATIONs
   - name: Experience
-    link: ./#Experience
+    link: ./#EXPERIENCEs
   - name: Rewards & Honors
-    link: ./#Rewards & Honors
+    link: ./#REWARDs & HONORs
