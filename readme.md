@@ -1,21 +1,24 @@
-## 胡森康
+## Biography
 
-Email: huhbu@outlook.com  
-Phone: 15910231910
-</div>
+I'm HU Senkang, now I'm a PhD student of University of Chinese Academy of Sciences (UCAS), 
 
-## 教育经历
 
-- **中国科学院大学，博士**
-  - 2022.8 -- 今
-  - 计算机科学与技术，研究方向为人工智能，计算机视觉，智能信息处理等
+## Education
 
-- **北京理工大学，本科**
+- **University of Chinese Academy of Sciences, PhD**
+  - 2022.8 -- Now
+  - Computer Science. Research Interests are computer Vision, deep learning, machine learning, etc.
+
+- **Beijing Institute of Technology, BSc**
   - 2018.9 -- 2022.6
-  - 电子信息工程
+  - Electronic Engineering
   - GPA：91/100，Top 5%
 
-## 工作经历
+## Publications
+
+Just coming...
+
+## Experience
 
 - 2022.9 -- 2022.12，**棱镜私募**，量化策略实习生
   - 负责维护数据库
@@ -32,47 +35,13 @@ Phone: 15910231910
   - 负责算法的实验
   - 协助开发新的算法
 
-## 发表论文
 
-- **胡同学**，徐铮，刘伟，史庆藩。一种精确的超声波定位系统 [J]. 物理与工程，2021,31(01):120-123.
-- **S. Hu**, Fu Shuai. Design and Simulation of vehicle antenna in different frequency band[J]. Journal of Physics: Conference Series,2020,1650(2).
-- Liu Xinge, **Hu S.**, Jiang Yurong, Li Lin. Muller Matrix of Medium Based on Polarized Light and Its Polar Decomposition Calculation. 2021 International Conference on Signal Image Processing and Communication (ICSIPC2021). 
 
-## 所获荣誉
+## Rewards & Honors
 
-|项目|日期|颁发单位|
-|:--|:--:|:--:|
-|**国家奖学金（0.2%）**|2021.10|**教育部**|
-|**北京理工大学“优秀学生标兵”（1%）**|2021.10|北京理工大学
-|北京理工大学“优秀团员”（5%）|2021.05|北京理工大学
-|北京理工大学一等奖学金（**4 次，5%**） ||北京理工大学
-|**CASC 奖学金（1%）**|2020.11|中国航天科技集团有限公司
-|北京理工大学“优秀学生”（5%）|2020.10|北京理工大学
-|北京理工大学“科研创新榜样”（1%）|2020.10|北京理工大学
-|北京理工大学“青春榜样”（1%）|2020.04|北京理工大学
-## 技能经验
+- National Scholarship (Top 0.2%)
+- CASC Scholarship (Top 1%)
+- First Class Academic Scholarship (4 times)
+- Excellent Student of Beijing Institute of Technology (3 Times)
+- Model of Scientific Research Innovation (Top 1%)
 
-- 熟悉 Python, Linux, Pandas
-- 熟悉 Pytorch 深度学习框架
-- 熟悉主流深度学习算法，包括图像处理，目标检测，3D 目标检测等
-- 有一定的算法项目经验，具备实际使用和调试技巧，动手能力强，熟悉 Python 语言，熟悉 Linux 开发环境
-
-## 项目经历
-
-- **基于卷积神经网络的遥感旋转目标检测**
-  搭建基于 YOLOv5 的目标检测网络，并对数据进行清洗和处理，并利用改建后的 YOLOv5 对进行多尺度训练和旋转目标检测
-
-- **基于卷积神经网络的水下目标识别**
-  利用 YOLOv5 对自建的水下目标数据集进行训练，在测试集上达到 80%的 mAP，并在对从南海海底传回的视频进行检测，达到满意的效果
-
-- **基于 Python 实现 NMEA-0183 协议下 GPS 数据的串口通讯程序设计及可视化**
-  搭建虚拟串口环境，利用 GPS 模拟器产生虚拟 GPS 数据，利用 Python 从虚拟串口读入此数据，提取虚拟 GPS 数据中的经纬度，并进行可视化显示
-
-- **一种精确的超声波定位导航系统**
-  提出一种基于超声波技术的定位方法，利用若干个超声波接收器和一个超声波发射器实现对物体的实时空间定位，并在此基础上通过算法实现对被定位物体的运动轨迹的描绘，从而实现对物体的导航定位功能。并编写坐标计算程序，实时显示所得到的位置坐标，构建可视化显示方式，使物体的坐标位置具有很高的可读性
-
-## 课外活动
-
-- 担任北京理工大学共学会办公室主任，带领部员开展各类活动，竞赛并组织小组活动
-- 担任班级体育委员
-- 在甘肃省支教，帮助边远地区学生
