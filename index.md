@@ -4,7 +4,7 @@ layout: defalut
 
 ## <u>Biography</u>
 
-I'm HU Senkang (胡森康), now I'm a PhD student of University of Chinese Academy of Sciences (UCAS). I got my Bachelor's degree from Beijing Institute of Technology.
+I'm HU Senkang , now I'm a PhD student of University of Chinese Academy of Sciences (UCAS). I got my Bachelor's degree from Beijing Institute of Technology.
 
 ## <u>Education</u>
 
