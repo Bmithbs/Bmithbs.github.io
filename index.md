@@ -1,6 +1,4 @@
----
-layout: defalut
----
+
 
 ## <u>Biography</u>
 
