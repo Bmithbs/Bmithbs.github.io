@@ -13,16 +13,13 @@ platforms:
     link: https://github.com/bmithbs
 
 navigation:
-  - name: Home Page 
-    link: ./
-    sublist:
-      - name: Biography
-        link: ./#Biography
-      - name: Education
-        link: ./#Education
-      - name: Publications
-        link: ./#Publications
-      - name: Experience
-        link: ./#Experience
-      - name: Rewards & Honors
-        link: ./#Rewards & Honors
+  - name: Biography
+    link: ./#Biography
+  - name: Education
+    link: ./#Education
+  - name: Publications
+    link: ./#Publications
+  - name: Experience
+    link: ./#Experience
+  - name: Rewards & Honors
+    link: ./#Rewards & Honors

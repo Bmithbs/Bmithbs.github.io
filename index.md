@@ -6,14 +6,14 @@ I'm HU Senkang (胡森康), now I'm a PhD student of University of Chinese Acade
 
 ## Education
 
-- **University of Chinese Academy of Sciences, PhD**
-  - 2022.8 -- Now
-  - Computer Science. Research Interests are computer Vision, deep learning, machine learning, etc.
+### University of Chinese Academy of Sciences, PhD
+- 2022.8 -- Now
+- Computer Science. Research Interests are computer Vision, deep learning, machine learning, etc.
 
-- **Beijing Institute of Technology, BSc**
-  - 2018.9 -- 2022.6
-  - Electronic Engineering
-  - GPA：91/100，Top 5%
+### Beijing Institute of Technology, BSc
+- 2018.9 -- 2022.6
+- Electronic Engineering
+- GPA：91/100，Top 5%
 
 ## Publications
 
@@ -23,9 +23,20 @@ Just coming...
 
 ## Experience
 
-- **Lengjing PE Fund**, Quantatitive Strategy Intern, 2022.9 -- 2022.12
-- **HAOMO.AI**, Computer Vision Intern, 2022.4 -- 2022.8
-- **Chinese Academy of Sciences**, Research Assistant, 2021.10 -- 2022.3
+### Lengjing PE Fund
+
+- Quantitative Strategy Intern
+- 2022.9 -- 2022.12
+
+### HAOMO.AI
+
+- Computer Vision Intern
+- 2022.4 -- 2022.8
+
+## Chinese Academy of Sciences
+
+- Research Assistant
+- 2021.10 -- 2022.3
 
 
 
