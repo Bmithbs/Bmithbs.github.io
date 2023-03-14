@@ -4,17 +4,24 @@
 
 I'm HU Senkang, now I'm a PhD student of University of Chinese Academy of Sciences (UCAS). I got my Bachelor's degree from Beijing Institute of Technology.
 
+My research interests lay on:
+- Smart City
+- 6G
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Federated Learning
 ## EDUCATION
 
-**University of Chinese Academy of Sciences, PhD**
-- Computer Science. 
-- Research Interests are computer Vision, deep learning, machine learning, etc.
-- 2022.8 -- Now
+- **University of Chinese Academy of Sciences, PhD**
+  - Computer Science. 
+  - Research Interests are computer Vision, deep learning, machine learning, etc.
+  - 2022.8 -- Now
 
-**Beijing Institute of Technology, BSc**
-- Electronic Engineering
-- GPA：91/100，Top 5%
-- 2018.9 -- 2022.6
+- **Beijing Institute of Technology, BSc**
+  - Electronic Engineering
+  - GPA：91/100，Top 5%
+  - 2018.9 -- 2022.6
 
 
 
@@ -26,20 +33,20 @@ Just coming...
 
 ## EXPERIENCEs
 
-**Lengjing PE Fund**
-- Quantitative Strategy Intern
-- 2022.9 -- 2022.12
-- Responsible for financial data processing, stock data mining, trading strategy research and testing, etc.
+- **Lengjing PE Fund**
+  - Quantitative Strategy Intern
+  - 2022.9 -- 2022.12
+  - Responsible for financial data processing, stock data mining, trading strategy research and testing, etc.
 
-**HAOMO.AI**
-- Computer Vision Intern
-- 2022.4 -- 2022.8
-- Responsible for the maintenance and iteration of 3D point cloud object detection algorithm, the generalization of 3D object detection algorithm, data cleaning algorithm research, research and experiment of training methods, etc.
+- **HAOMO.AI**
+  - Computer Vision Intern
+  - 2022.4 -- 2022.8
+  - Responsible for the maintenance and iteration of 3D point cloud object detection algorithm, the generalization of 3D object detection algorithm, data cleaning algorithm research, research and experiment of training methods, etc.
 
-**Chinese Academy of Sciences**
-- Research Assistant
-- 2021.10 -- 2022.3
-- Responsible for literature research, the experiment of algorithm, algorithm implementation, etc.
+- **Chinese Academy of Sciences**
+  - Research Assistant
+  - 2021.10 -- 2022.3
+  - Responsible for literature research, the experiment of algorithm, algorithm implementation, etc.
 
 
 
